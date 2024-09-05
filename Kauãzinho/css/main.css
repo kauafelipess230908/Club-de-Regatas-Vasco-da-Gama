@@ -563,9 +563,6 @@ body {
   text-align: center;
 }
 @media screen and max-width: 1024px
-* {
-  box-sizing: border-box;
-}
 body {
   font-size: 14px;
 }
